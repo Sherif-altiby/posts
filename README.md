@@ -25,8 +25,3 @@ This app allows users to create, update, and manage posts with a clean and moder
 - **Database:** PostgreSQL
 - **Styling:** Tailwind CSS
 - **Language:** TypeScript
-
----
-
-## 📂 Project Structure
-
