@@ -22,7 +22,7 @@ This app allows users to create, update, and manage posts with a clean and moder
 - **Frontend:** Next.js (App Router)
 - **Backend:** Next.js API Routes
 - **Database ORM:** Prisma
-- **Database:** SQLite / PostgreSQL / MySQL (depending on your setup)
+- **Database:** PostgreSQL
 - **Styling:** Tailwind CSS
 - **Language:** TypeScript
 
